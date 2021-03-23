@@ -366,9 +366,6 @@
   ],
   "keywords": [
     {
-      "value": "Alzheimer's Disease"
-    },
-    {
       "value": "Touchscreen Technology"
     },
     {
@@ -672,7 +669,13 @@
 	  ],
 	  "keywords": [
 		{
-		  "value": "attention"
+			"information": {
+                "identifier": {
+                    "identifier": "ilx_0100980",
+                    "identifierSource":"http://uri.interlex.org/base/ilx_0100980"
+                },
+				"value": "attention"
+            }
 		},
 		{
 		  "value": "touchscreen"
